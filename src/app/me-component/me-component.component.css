@@ -1,0 +1,15 @@
+img {
+    filter: drop-shadow(0 0 0 white) 
+    drop-shadow(1px 1px 0 white) 
+    drop-shadow(-1px -1px 0 white) 
+    drop-shadow(1px -1px 0 white) 
+    drop-shadow(-1px 1px 0 white);
+
+    
+  }
+
+  .circle{
+    border-radius:9000px;
+    top:30px;
+  }
+  
